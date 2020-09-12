@@ -3,3 +3,6 @@
 ** 文件系统初步
 - 测试官方的例子
 - 学习笔记: [[https://greyzhang.blog.csdn.net/article/details/108554092][Arduino mega2560文件系统初步]]
+** Arduino库信息小结
+- 学习笔记: [[https://greyzhang.blog.csdn.net/article/details/108554884][Arduino SD卡文件系统库基本信息小结]]
+
