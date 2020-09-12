@@ -5,4 +5,6 @@
 - 学习笔记: [[https://greyzhang.blog.csdn.net/article/details/108554092][Arduino mega2560文件系统初步]]
 ** Arduino库信息小结
 - 学习笔记: [[https://greyzhang.blog.csdn.net/article/details/108554884][Arduino SD卡文件系统库基本信息小结]]
-
+** SD卡信息获取
+- 这是对官方例子的一个分析，其实虽然叫做SD卡的信息，这里面也有一部分文件系统的信息。
+- 学习笔记: [[https://greyzhang.blog.csdn.net/article/details/108555466][SD卡信息的获取例程分析]]
