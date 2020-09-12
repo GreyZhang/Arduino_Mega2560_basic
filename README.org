@@ -1,0 +1,5 @@
+* Arduino mega2560 learning trip.
+- 记录一下自己觉得比较有必要积累的Arduino学习经历，这里不再分什么章节，纯粹整理一系列的学习记录在此。
+** 文件系统初步
+- 测试官方的例子
+- 学习笔记: [[https://greyzhang.blog.csdn.net/article/details/108554092][Arduino mega2560文件系统初步]]
